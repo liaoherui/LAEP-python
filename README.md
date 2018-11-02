@@ -1,4 +1,4 @@
-# LAEP-python
+# LAEP-Python
 宏基因组装评估流程，LAEP(linked-read assembly evaluation pipeline)
 
 #配置文件为LAEP.conf
