@@ -1,0 +1,5 @@
+bins_name	completeness	contamination	tRNA_Num	5S_RNA	16S_RNA	23S_RNA	largest_species	species_num	largest_genus	genus_num	largest_phylum	phylum_num	N50	total_length	quality
+zxy_pacbio_ccs_megahit.001	61.26	18.51	41	yes	no	yes	[Eubacterium] rectale(4.36)	111	Bacteroides(7.17)	81	Firmicutes(16.65)	13	4150	4419511	Other
+zxy_pacbio_ccs_megahit.002	69.54	50.11	58	yes	yes	yes	Roseburia hominis(4.67)	200	Bacteroides(7.08)	157	Bacteroidetes(18.34)	15	4312	7206285	Other
+zxy_pacbio_ccs_megahit.003	59.09	42.08	41	yes	yes	yes	Bacteroides thetaiotaomicron(16.36)	99	Bacteroides(27.11)	73	Bacteroidetes(31.67)	11	3967	8449422	Other
+zxy_pacbio_ccs_megahit.004	83.62	69.86	48	yes	yes	yes	Bacteroides thetaiotaomicron(13.46)	109	Bacteroides(22.83)	78	Bacteroidetes(29.32)	12	4320	9458245	Other

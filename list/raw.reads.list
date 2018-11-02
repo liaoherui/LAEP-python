@@ -1,0 +1,8 @@
+10x_hlj	/mnt/osf1/user/zhanglu/zhanglu/disk11/F16RD07016_ECOclg_10X/hlj/rawdata
+10x_zxy	/mnt/osf1/user/zhanglu/zhanglu/disk11/F16RD07016_ECOclg_10X/zxy/rawdata
+illumina	/mnt/osf1/user/zhanglu/zhanglu/disk11/F16RD07016_ECOclg_hiseqx10
+BGIseq_hlj	/mnt/osf1/user/zhanglu/zhanglu/hybrid/hlj/hlj_X10/rawdata
+BGIseq_zxy	/mnt/osf1/user/zhanglu/zhanglu/hybrid/hlj/hlj_X10/rawdata
+PacBio_hlj	/mnt/osf1/user/zhanglu/zhanglu/hybrid/hlj/hlj_pacbio/hlj_pacbio.fastq
+PacBio_zxy	/mnt/osf1/user/zhanglu/zhanglu/hybrid/zxy/zxy_pacbio/zxy_pacbio.fastq
+stlfr	/mnt/osf2/user/zhanglu/hlj_lfr
